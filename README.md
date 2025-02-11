@@ -6,19 +6,19 @@ CreditWise AI is an innovative platform that leverages the power of Artificial I
 
 This project was developed as part of Nexathon Hackathon At VIT Chennai and emphasizes open innovation through Fintech industry of banking sector with implementation of Ml(Machine Learning) Algorithms.
 
-## Core Functionality:
+# Core Functionality:
 
-# Credit Tier Prediction:
+## Credit Tier Prediction:
   Clearly state that the system predicts credit card tier eligibility (e.g., Regular, Gold, Platinum, Diamond) based on applicant data.
-# Personalized Recommendations: 
+## Personalized Recommendations: 
   Explain that the predicted tier enables personalized offers and financial product recommendations.
   
-## Technical Features:
+# Technical Features:
 
-  # Machine Learning Model(s): 
+  ## Machine Learning Model(s): 
     Model such as Random Forest Classifier
-  # Data Sources: 
+  ## Data Sources: 
     The data used for training are synthetic and anonymized data of the credit data of the bank customers.
     
-# Technology Stack: 
+#4 Technology Stack: 
   ## Python, scikit-learn, Flask, HTML, CSS, JAVASCRIPT, JQUERY, SQLITE3
