@@ -20,5 +20,5 @@ This project was developed as part of Nexathon Hackathon At VIT Chennai and emph
   ## Data Sources: 
     The data used for training are synthetic and anonymized data of the credit data of the bank customers.
     
-#4 Technology Stack: 
+# Technology Stack: 
   ## Python, scikit-learn, Flask, HTML, CSS, JAVASCRIPT, JQUERY, SQLITE3
