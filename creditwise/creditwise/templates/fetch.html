@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetched Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+            margin: 20px;
+        }
+        #loading {
+            display: none;
+            font-size: 18px;
+            color: #007bff;
+            margin-top: 10px;
+        }
+        table {
+            width: 90%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #ddd;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        @media (max-width: 768px) {
+            table {
+                width: 100%;
+                font-size: 14px;
+            }
+            th, td {
+                padding: 8px;
+            }
+        }
+    </style>
+    <script>
+        function fetchData() {
+            document.getElementById('loading').style.display = 'block';  // Show loading
+            fetch('/fetch')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('loading').style.display = 'none';  // Hide loading
+                    let tableHTML = "<table><tr>";
+
+                    // Generate table headers dynamically
+                    if (data.length > 0) {
+                        Object.keys(data[0]).forEach(key => {
+                            tableHTML += `<th>${key}</th>`;
+                        });
+                        tableHTML += "</tr>";
+                    }
+
+                    // Generate table rows
+                    data.forEach(row => {
+                        tableHTML += "<tr>";
+                        Object.values(row).forEach(value => {
+                            tableHTML += `<td>${value}</td>`;
+                        });
+                        tableHTML += "</tr>";
+                    });
+
+                    tableHTML += "</table>";
+                    document.getElementById('data-container').innerHTML = tableHTML;
+                })
+                .catch(error => {
+                    document.getElementById('loading').style.display = 'none';  // Hide loading
+                    document.getElementById('data-container').innerHTML = `<p style="color: red;">Error fetching data: ${error}</p>`;
+                });
+        }
+    </script>
+</head>
+<body>
+    <h1>Predictions Data</h1>
+    <button onclick="fetchData()">Fetch Data</button>
+    <p id="loading">Fetching data, please wait...</p>
+    <div id="data-container"></div>
+</body>
+</html> 

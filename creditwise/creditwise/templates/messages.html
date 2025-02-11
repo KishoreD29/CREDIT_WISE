@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Status</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2>Message Status</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Phone Number</th>
+                <th>Current Tier</th>
+                <th>Predicted Tier</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody id="statusTable">
+            
+        </tbody>
+    </table>
+
+    <script>
+        // Retrieve message status from localStorage
+        const messageStatus = JSON.parse(localStorage.getItem('messageStatus'));
+
+        if (messageStatus && messageStatus.length > 0) {
+            let tableBody = document.getElementById("statusTable");
+            messageStatus.forEach(msg => {
+                let row = `<tr>
+                    <td>${msg.phone}</td>
+                    <td>${msg.current_tier}</td>
+                    <td>${msg.predicted_tier}</td>
+                    <td>${msg.status}</td>
+                </tr>`;
+                tableBody.innerHTML += row;
+            });
+        } else {
+            document.getElementById("statusTable").innerHTML = `<tr><td colspan="4">No messages sent.</td></tr>`;
+        }
+    </script>
+</body>
+</html>

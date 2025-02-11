@@ -1,0 +1,815 @@
+Date: 10/2/2025
+Time: 20:0
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:1
+Phone Number: +919345610482
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:1
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:3
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:3
+Phone Number: +919345610482
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:3
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:5
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:5
+Phone Number: +919345610482
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:5
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:6
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:6
+Phone Number: +917010941318
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 20:6
+Phone Number: +919345610482
+Message: Dear user, your Credit Tier remains Platinum. No changes detected.
+--------------------
+Date: 10/2/2025
+Time: 21:19
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank administrative.
+--------------------
+Date: 10/2/2025
+Time: 21:19
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank administrative.
+--------------------
+Date: 10/2/2025
+Time: 21:27
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank administrative.
+--------------------
+Date: 10/2/2025
+Time: 21:27
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank administrative.
+--------------------
+Date: 10/2/2025
+Time: 21:28
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank administrative.
+--------------------
+Date: 10/2/2025
+Time: 21:28
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank administrative.
+--------------------
+Date: 10/2/2025
+Time: 22:24
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 22:55
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:5
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:6
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:6
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:6
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:38
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:39
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:39
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:40
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:40
+Phone Number: +919345610482
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:40
+Phone Number: +919345610482
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:41
+Phone Number: +919345610482
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:41
+Phone Number: +917010941318
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 10/2/2025
+Time: 23:41
+Phone Number: +917010941318
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:37
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:37
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:37
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:37
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:37
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:37
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:38
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:39
+Phone Number: +919345610482
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:39
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:39
+Phone Number: +919345610482
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:55
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 1:55
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 2:46
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 2:52
+Phone Number: +911234567890
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:52
+Phone Number: +911234567890
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:52
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:52
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:52
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:53
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:53
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:53
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:53
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:53
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:54
+Phone Number: +919345610482
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:54
+Phone Number: +911234567890
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:54
+Phone Number: +919345610482
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:54
+Phone Number: +919345610482
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:54
+Phone Number: +911234567890
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 2:55
+Phone Number: +917010545350
+Message: Free service available 💋
+--------------------
+Date: 11/2/2025
+Time: 4:21
+Phone Number: +911234567890
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 4:21
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 4:22
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 4:22
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Bronze for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 4:22
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Gold for best usage . Contact bank admin.
+--------------------
+Date: 11/2/2025
+Time: 5:28
+Phone Number: +911234567890
+Message: Dear Customer, due to recent changes, your credit plan has been adjusted. You can now explore our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme’ for better financial management. Contact the bank for more details.
+--------------------
+Date: 11/2/2025
+Time: 5:28
+Phone Number: +917010545350
+Message: Dear Customer, due to recent changes, your credit plan has been adjusted. You can now explore our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme’ for better financial management. Contact the bank for more details.
+--------------------
+Date: 11/2/2025
+Time: 5:37
+Phone Number: +917010941318
+Message: Dear Customer, due to recent changes, your credit plan has been adjusted. You can now explore our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme’ for better financial management. Contact the bank for more details.
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +911234567890
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +917010545350
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +917010545350
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +917010545350
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +917010545350
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +919345610482
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +919345610482
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 5:59
+Phone Number: +919345610482
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 6:0
+Phone Number: +917010941318
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 6:0
+Phone Number: +917010941318
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 6:0
+Phone Number: +911234567890
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 6:0
+Phone Number: +917010545350
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 6:0
+Phone Number: +917010545350
+Message: Dear Customer, you are now eligible for our ‘Smart Savings Plan’ and ‘Flexible Credit Scheme.’
+--------------------
+Date: 11/2/2025
+Time: 6:3
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:3
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:8
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:8
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:9
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:10
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:12
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:12
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:18
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:19
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:19
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:19
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:21
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:21
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:21
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:22
+Phone Number: +911234567890
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:22
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:24
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:24
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:24
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:29
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:29
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:33
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:33
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:33
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:38
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:38
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:38
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:40
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:40
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:43
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:43
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:44
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:44
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:46
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:46
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 6:46
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 7:2
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 7:2
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 7:5
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 7:5
+Phone Number: +917010545350
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 7:6
+Phone Number: +919345610482
+Message: Dear Customer, your credit tier has been downgraded. Contact the bank for assistance.
+--------------------
+Date: 11/2/2025
+Time: 7:42
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank administrative.
+--------------------
+Date: 11/2/2025
+Time: 7:42
+Phone Number: +917010545350
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank administrative.
+--------------------
+Date: 11/2/2025
+Time: 7:42
+Phone Number: +919345610482
+Message: Dear Customer, your Credit can changed to new Tier remains Silver for best usage . Contact bank administrative.
+--------------------
